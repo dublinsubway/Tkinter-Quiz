@@ -4,6 +4,8 @@ This is a quiz application made using the Tkinter python module
 
 The program webscrapes questions and tracks users highscores by allowing them to create accounts and storing their username, password and score in the database.
 
+Forked with permission.
+
 ## Required modules:
 * Requests
 * Beautiful Soup4
